@@ -4,7 +4,7 @@ A step by step guide to show you main principles of using Winstar TFT LCD Displa
 
 This entry level guide would be useful for everybody who are making their first steps with TFT LCD Displays in general. 
 
-#### About Winstar:
+#### About Winstar
 
 [Winstar](https://www.winstar.com.tw/company/about_us.html) Industrial LCD Display, Display Manufacturing Company. 
 Established in 1998, Winstar Display Co. Ltd has devoted itself to the manufacturing and development of high-quality products for the Industrial LCD Displays including monochrome TN/STN/FSTN LCM, COG LCD, VATN-LCD, TFT LCD and OLED display modules. Winstar has become the No. 1 of the leading industrial display manufacturer in the field of small & medium sized displays and its continuous innovating allowed it to secure several global patents.

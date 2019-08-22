@@ -2,18 +2,18 @@
 
 Simple arduino library. 
 
-#### Features:
+#### Features
 
 to do 
 
-#### Tested:
+#### Tested
 
 to do 
 
-#### Demo:
+#### Demo
 
 to do 
 
-#### To Do:
+#### To Do
 
 to do 
