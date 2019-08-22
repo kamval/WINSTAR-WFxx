@@ -11,7 +11,7 @@ You need to follow 3 easy steps.
 1. Select you COM port number:
 
 <p align="center">
-  <img width="609" height="504" src="https://github.com/kamval/WINSTAR-WFxx/blob/master/WFxx%20Documents/WF57MTIBCDRT0-exp.jpg">
+  <img width="861" height="515" src="https://github.com/kamval/WINSTAR-WFxx/blob/master/WFxx%20Documents/GUI_Select_Port.jpg">
 </p>
 
 2. Select the images you want to load:
