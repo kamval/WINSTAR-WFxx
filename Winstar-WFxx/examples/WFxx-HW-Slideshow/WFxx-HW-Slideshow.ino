@@ -22,8 +22,8 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 */
 
-//WF32M - all in One TFT LCD Displays (Clever System) example 
-//for use with Hardware Serial
+// WF32M - all in One TFT LCD Displays (Clever System) example 
+// for use with Hardware Serial
 
 #include <Winstar-WFxx.h>
 
