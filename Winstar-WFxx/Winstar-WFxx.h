@@ -38,8 +38,8 @@ SOFTWARE.
 #define   Square            0x35
 #define   Clear             0x36
 #define   PWM               0x37
-#define   SET_BL            0x39    // Backlight
-#define   CAL_RTP           0x7E    // Calibrate Touch
+#define   SET_BL            0x39   
+#define   CAL_RTP           0x7E    
 
 #define   Graphic_Length    0x0F
 #define   Line_Length       0x15
@@ -48,8 +48,8 @@ SOFTWARE.
 #define   Staring_Length    0x14
 #define   PWM_Length        0x0D
 #define   Clear_Length      0x10
-#define   SET_BL_Length     0x0A    // Backlight
-#define   CAL_RTP_Length    0x08    // Calibrate Touch
+#define   SET_BL_Length     0x0A    
+#define   CAL_RTP_Length    0x08    
 
 #define   ACK               0x06
 #define   NAK               0x15
@@ -84,8 +84,8 @@ public:
 
   unsigned char BCC_Calculate(unsigned char *String);
   uint8_t Check_WFxx_Feedback();
-
-	uint8_t TP();
+  
+  uint8_t TP();
 	uint16_t X_Touch, Y_Touch;
 
 private:
