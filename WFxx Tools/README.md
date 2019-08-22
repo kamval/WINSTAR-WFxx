@@ -35,11 +35,10 @@ For more details please check: [M-Series User Guide v1.6.8] (https://github.com/
 WWTFT-10 is a USB to TTL serial converter board with 5.0V @ 500mA output.
 
 <p align="center">
-  <img width="609" height="504" src="https://github.com/kamval/WINSTAR-WFxx/blob/master/WFxx%20Documents/WF57MTIBCDRT0-exp.jpg">
+  <img width="320" height="216" src="https://github.com/kamval/WINSTAR-WFxx/blob/master/WFxx%20Documents/WWTFT-10.jpg">
 </p>
 
 
 #### Demo Images
 
 A set or preloaded images needed to test the Arduino examples. 
-
