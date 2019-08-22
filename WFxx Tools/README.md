@@ -28,7 +28,7 @@ You need to follow 3 easy steps.
 
 You are ready to go. 
 
-For more details please check: [M-Series User Guide v1.6.8] (https://github.com/kamval/WINSTAR-WFxx/blob/master/WFxx%20Documents/M-Series%20User%20Guide%20v1.6.8.pdf)
+For more details please check: [M-Series User Guide v1.6.8](https://github.com/kamval/WINSTAR-WFxx/blob/master/WFxx%20Documents/M-Series%20User%20Guide%20v1.6.8.pdf)
 
 #### Accessories
 
