@@ -20,6 +20,6 @@ Winstar [M Series](https://www.winstar.com.tw/products/tft-lcd/clever-system-tft
 Winstar designs an optional development board which Part no. is WWTFT-10# for customers to accelerate the project for test function.
 
 <p align="center">
-  <img width="609" height="504" src="https://github.com/kamval/WINSTAR-WFxx/blob/master/WFxx%20Documents/WF57MTIBCDRT0-exp.jpg">
+  <img width="843" height="596" src="https://github.com/kamval/WINSTAR-WFxx/blob/master/WFxx%20Documents/WF57MTIBCDRT0-exp.jpg">
 </p>
 
