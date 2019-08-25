@@ -4,7 +4,33 @@ Simple arduino library, showing the main capabilities of Winstar [M Series](http
 
 #### Features
 
-The library features HW and SW serail input. 
+The library features HW and SW serail support the default baud rate for the M Series is 19200.  
+
+Hardware Serial Support:
+
+```
+WFxx WF32M(Serial1);
+
+void setup() {
+  Serial1.begin(19200);
+}
+```
+
+Software Serial Support:
+
+```
+SoftwareSerial WFxxSerial(10, 11); //RX, TX
+
+WFxx WF32M(WFxxSerial);
+
+void setup() {
+  WFxxSerial.begin(19200);
+}
+```
+
+To download, click the ZIP button in the top navbar, rename the uncompressed folder Winstar-WFxx. Check that the Adafruit_HDC1000 folder contains Winstar-WFxx.cpp and Winstar-WFxx.h
+
+Place the Winstar-WFxx library folder your arduinosketchfolder/libraries/ folder. You may need to create the libraries subfolder if its your first library. Restart the IDE.
 
 #### Compatibility
 
