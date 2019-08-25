@@ -28,7 +28,7 @@ void setup() {
 }
 ```
 
-To download, click the ZIP button in the top navbar, rename the uncompressed folder Winstar-WFxx. Check that the Adafruit_HDC1000 folder contains Winstar-WFxx.cpp and Winstar-WFxx.h
+To download, click the ZIP button in the top navbar, rename the uncompressed folder Winstar-WFxx. Check that the Winstar-WFxx folder contains Winstar-WFxx.cpp and Winstar-WFxx.h
 
 Place the Winstar-WFxx library folder your arduinosketchfolder/libraries/ folder. You may need to create the libraries subfolder if its your first library. Restart the IDE.
 
