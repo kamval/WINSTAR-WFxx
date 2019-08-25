@@ -62,7 +62,7 @@ Place the Winstar-WFxx library folder your arduinosketchfolder/libraries/ folder
 Check out the examples
 
 <p align="center">
-  <img width="843" height="596" src="https://github.com/kamval/WINSTAR-WFxx/blob/master/WFxx%20Documents/WF57MTIBCDRT0-exp.jpg">
+  <img width="678" height="382" src="https://github.com/kamval/WINSTAR-WFxx/blob/master/WFxx%20Documents/GUI_Demo.gif">
 </p>
 
 #### To Do
