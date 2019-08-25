@@ -59,11 +59,13 @@ Place the Winstar-WFxx library folder your arduinosketchfolder/libraries/ folder
 
 #### Demo
 
-Check out the examples
+Check out the examples, a demo can be found below:
 
 <p align="center">
   <img width="678" height="382" src="https://github.com/kamval/WINSTAR-WFxx/blob/master/WFxx%20Documents/GUI_Demo.gif">
 </p>
+
+If you need help please <a href = "mailto: kamen.valkov@comet.bg">give me a note</a>.
 
 #### To Do
 
