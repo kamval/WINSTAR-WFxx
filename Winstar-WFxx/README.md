@@ -42,9 +42,9 @@ Place the Winstar-WFxx library folder your arduinosketchfolder/libraries/ folder
 | MCU Tested         | Works         | Doesn't Work  | Not Tested    | Notes         |
 | ------------------ | ------------- | ------------- | ------------- | ------------- |
 | Atmega328 @ 16MHz  | X             |               |               |               |
-| Atmega32u4 @ 16MHz | X             |               | X             |               |
+| Atmega32u4 @ 16MHz | X             |               |               |               |
 | ESP8266            |               |               | X             |               |
-| ESP32              |               |               |               |               |
+| ESP32              |               |               | X             |               |
 | Atmega2560         | X             |               |               |               |
 | ATSAM3X8E          | X             |               |               |               |
 | ATSAM21D           | X             |               |               |               |
